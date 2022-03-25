@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shamith Srinivas.
-- I'm 11 years Old, Grade 6
+- 📖 I'm 11 years Old, Grade 6
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning HTML and CSS
 - 📫 You  can reaach me at contact.shamith@gmail.com
